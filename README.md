@@ -35,7 +35,7 @@ On terminal </br>
 ```
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/trhacknon/mip22.git
 ```
 ```diff
 chmod -R 777 mip22 
@@ -57,7 +57,7 @@ Installation on Android OS. </br>
 On Termux </br>
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/trhacknon/mip22.git
 ```
 
 ```diff
